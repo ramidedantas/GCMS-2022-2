@@ -6,3 +6,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Ramide Dantas (dono, @ramidedantas)
 * rasd (@rasd)
 * Pedro Vila Nova (colaborador, @PeterNV)
+* Camille Gomes (colaboradora, @CamilleGomes)
