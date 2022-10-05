@@ -8,4 +8,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Pedro Vila Nova (colaborador, @PeterNV)
 * Camille Gomes (colaboradora, @CamilleGomes)
 * Caroline Medeiros (colaboradora, @mecarolme)
-* 
+* Henrique Venâncio (Colaborador, @hvenanc)
