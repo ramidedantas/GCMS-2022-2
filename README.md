@@ -7,3 +7,5 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * rasd (@rasd)
 * Pedro Vila Nova (colaborador, @PeterNV)
 * Camille Gomes (colaboradora, @CamilleGomes)
+* Caroline Medeiros (colaboradora, @mecarolme)
+* 
