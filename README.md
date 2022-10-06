@@ -10,3 +10,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Caroline Medeiros (colaboradora, @mecarolme)
 * Henrique Venâncio (Colaborador, @hvenanc)
 * Milena Melo (Colaboradora, @Milenamelotavares)
+* Mateus Ferraz (colaborador, @mattferraz)
