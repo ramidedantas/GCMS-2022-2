@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Mateus: Pratica 03 - Git B√°sico");
 		System.out.println("Pedro Vila Nova (@PeterNV). COMMIT da Pr√°tica 03");
 		System.out.println("COMMIT da Pr√°tica 04, realizado por Pedro Vila Nova");
+		System.out.println("Milena: pr·tica 03 - Git b·sico");
 	}
 
 }
