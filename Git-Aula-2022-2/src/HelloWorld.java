@@ -12,6 +12,7 @@ public class HelloWorld {
 		System.out.println("Camille: prática 03 - Git Básico");
 		System.out.println("Mateus: Pratica 04 - Git Branches");
 		System.out.println("Mateus: Pratica 04 - Git Branches - Pull Request");
+		System.out.println("Caroline: Pratica 03 - Git Basico");
 	}
 
 }
