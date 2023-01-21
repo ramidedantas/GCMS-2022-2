@@ -16,6 +16,7 @@ public class HelloWorld {
 		System.out.println("Williem: Pratica 03 - Git Básico");
 		System.out.println("Henrique Venâncio: Pratica 03 - Git Básico");
 		System.out.println("Camila Silva: Pratica 03 - Git Basico");
+		System.out.println("Gleice Silva: Pratica 03 - Git Basico");
 	}
 
 }
