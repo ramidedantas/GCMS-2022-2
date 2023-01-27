@@ -17,7 +17,6 @@ public class HelloWorld {
 		System.out.println("Henrique Venâncio: Pratica 03 - Git Básico");
 		System.out.println("Camila Silva: Pratica 03 - Git Basico");
 		System.out.println("Gleice Silva: Pratica 03 - Git Basico");
-		System.out.println("Gleice est� atualizando");
 		System.out.println("Gleice: Pratica 04 - Git Branches - Pull Request ");
 	}
 
